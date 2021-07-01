@@ -13,7 +13,7 @@ export default {
         Footer,
     },
     head() {
-        return { title: 'SYMBOL Faucet' };
+        return { title: 'GRIT Network Faucet' };
     },
 };
 </script>
